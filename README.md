@@ -1,7 +1,7 @@
 
 # Android-Use-Library
 All useful library detail with link
-[<img src="https://pasteboard.co/K0Bf2ft.png">]
+<img src="https://pasteboard.co/K0Bf2ft.png">
 
 
 # About
