@@ -516,14 +516,5 @@ My personal recommendation is (for now) to use the android api to build a native
 ### Flutter
 - [Flutter](https://flutter.dev/) - Google's mobile app SDK for high-quality native interfaces for Android and iOS in very quick time.
 
-# Performance
-- [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - A list of awesome Android tutorials, videos and tools for performance optimization.
-- [Booster](https://github.com/didi/booster) - Booster is an optimization toolkit for Android applications.
 
-# Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) list.
-
-## Contributing
-
-Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
 
