@@ -519,6 +519,32 @@ My personal recommendation is (for now) to use the android api to build a native
 
 ### Flutter
 - [Flutter](https://flutter.dev/) - Google's mobile app SDK for high-quality native interfaces for Android and iOS in very quick time.
+4.MPAndroidChart
+In a word: MPAndroidChart is a chart framework
+
+Reason to be on the list: 16.1K star on github for quick and concise. Powerful and well-known chart frame
+
+The official address https://github.com/PhilJay/MPAndroidChart
+
+github https://github.com/PhilJay/MPAndroidChart
+
+Author: Phil Jay
+
+use:
+
+1. Add Gladle Dependence to AS
+
+Add on the build.gradle of the root:
+
+allprojects {
+      repositories {
+          maven { url "https://jitpack.io" }
+      }
+  }
+Add on the app's build.gradle:
+
+dependencies {
+      compile 'com.github.PhilJay:MPAndroidChart:v3.0.2' }
 
 
 
